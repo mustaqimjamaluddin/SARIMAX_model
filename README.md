@@ -12,4 +12,4 @@ Using ARIMA and SARIMAX models to forecast a time series of electrical energy us
 1. DATE in string form, converted to datetime and labelled as index for an interpretable visualisation
 2.  Depracated import call for ARIMA
 - from statsmodels.tsa.**arima_model** import ARIMA > from statsmodels.tsa.**arima.model** import ARIMA
-- 
+  
